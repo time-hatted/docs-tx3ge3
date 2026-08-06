@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-5ph32x.date-me.pro/sitemap.xml
